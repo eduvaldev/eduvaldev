@@ -5,23 +5,19 @@
 <a href="https://www.linkedin.com/in/nicolas-valencia-093315193/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://www.instagram.com/_un_tal_nicolas">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://user-images.githubusercontent.com/62915251/109051481-974e3380-76a8-11eb-8fb1-71025d3e4916.png" />
 </a>
 
 <br />
-
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+Hola, soy Nicolas Valencia, un desarrollador FullStack apacionado por el codigo y autodidacta. Mi pacion por el woftware radica en plasmar mis ideas y hacerlas realidad con un FrontEnd elegante y de buen gusto. Me centro en la experiencia al usuario y la calidad de codigo de las aplicaciones o sitios web que desarrollo.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 💬 ¿Tienes alguna pregunta?, Charlemos;
+- 📫 Escribeme a mi correo: nicolasv0415@gmail.com;
+- 📝 [Cv](https://drive.google.com/file/d/11OgnBA5xbAa5iYiU969ZouK4920rFiIA/view?usp=sharing)
+- 📝 [Hv](https://drive.google.com/file/d/1otJlYABcPZq-H7uR8Bie56ht03rGNTjI/view?usp=sharing)
 
 **Languages and Tools:**  
 
