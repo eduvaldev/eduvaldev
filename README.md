@@ -20,7 +20,7 @@ Hola, soy Nicolas Valencia, un desarrollador FullStack apacionado por el codigo 
 - 📝 [Cv](https://drive.google.com/file/d/11OgnBA5xbAa5iYiU969ZouK4920rFiIA/view?usp=sharing)
 - 📝 [Hv](https://drive.google.com/file/d/1otJlYABcPZq-H7uR8Bie56ht03rGNTjI/view?usp=sharing)
 
-**Languages and Tools:**  
+**Lenguajes y herramientas que manejo:**  
 
 <code><img height="40" src="https://user-images.githubusercontent.com/62915251/109055753-94a20d00-76ad-11eb-858b-4e80a7f7c94d.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/62915251/109055754-953aa380-76ad-11eb-9aed-74b02652b70e.png"></code>
