@@ -13,7 +13,7 @@
 <br />
 Hola, soy Nicolas Valencia, un desarrollador FullStack apacionado por el codigo y autodidacta. Mi pasion por el swoftware radica en plasmar mis ideas y hacerlas realidad con un FrontEnd elegante y de buen gusto. Me centro en la experiencia al usuario y la calidad de codigo de las aplicaciones o sitios web que desarrollo.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" />
   
 - 💬 ¿Tienes alguna pregunta?, Charlemos;
 - 📫 Escribeme a mi correo: nicolasv0415@gmail.com;
