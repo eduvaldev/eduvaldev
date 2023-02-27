@@ -33,3 +33,8 @@ Soy Nicolas Valencia, un desarrollador FullStack apasionado por el codigo y auto
 <code><img height="40" src="https://user-images.githubusercontent.com/62915251/109055777-98ce2a80-76ad-11eb-92ab-9e1f09251d20.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/62915251/109055778-9966c100-76ad-11eb-872c-f6da87882bce.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/62915251/109055779-9966c100-76ad-11eb-959c-705f07b8b991.png"></code>
+
+<br />
+<br />
+
+Actualmente lidero un grupo de 3 personas para la multinacional GlobalHitss, encargado de desarrollar la plataforma de Portabilidad para la empresa movil Claro, el grupo esta conformado por 4 personas.
